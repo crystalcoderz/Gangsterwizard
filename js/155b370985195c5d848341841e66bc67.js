@@ -1,0 +1,2 @@
+/**handles:cnss_js**/
+jQuery(document).ready(function(e){jQuery("ul.cnss-social-icon li img").on("mouseenter",function(){jQuery(this).animate({opacity:.5},{duration:200,queue:!1})}),jQuery("ul.cnss-social-icon li img").on("mouseleave",function(){jQuery(this).animate({opacity:1},{duration:200,queue:!1})})});
